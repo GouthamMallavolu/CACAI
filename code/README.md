@@ -235,4 +235,3 @@ To reproduce results consistently:
 
 - The first run may be slower because sentence-transformer models and embeddings are downloaded/built and then cached.
 - Enabling RAG in the UI increases latency because it runs text generation; keep it off for faster retrieval-only testing.
-"""
