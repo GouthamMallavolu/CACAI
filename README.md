@@ -17,6 +17,7 @@ The system is designed to support follow-up conversational queries and demonstra
 ---
 
 # Project Structure
+```
 Project_Mallavolu_Goutham/
 │
 ├── code/
@@ -41,6 +42,7 @@ Project_Mallavolu_Goutham/
 │   └── metrics_summary.csv     # Evaluation results
 │
 └── README.md                   # Project documentation
+```
 
 # System Components
 
