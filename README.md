@@ -27,7 +27,7 @@ Project_Mallavolu_Goutham/
 │   ├── reformulation.py        # Conversational query reformulation
 │   ├── rag.py                  # Optional RAG answer generation
 │   ├── evaluation.py           # Evaluation metrics (P@10, MAP, nDCG@10)
-│   ├── main_eval.py            # Offline evaluation script
+│   ├── main.py 
 │   └── requirements.txt        # Dependencies
 │
 ├── data/
