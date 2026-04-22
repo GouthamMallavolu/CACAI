@@ -14,9 +14,8 @@ This project implements a **context-aware conversational Information Retrieval (
 
 The system is designed to support follow-up conversational queries and demonstrate both traditional and modern retrieval techniques.
 
----
-
 # Project Structure
+```
 Project_Mallavolu_Goutham/
 │
 ├── code/
@@ -28,7 +27,7 @@ Project_Mallavolu_Goutham/
 │   ├── reformulation.py        # Conversational query reformulation
 │   ├── rag.py                  # Optional RAG answer generation
 │   ├── evaluation.py           # Evaluation metrics (P@10, MAP, nDCG@10)
-│   ├── main_eval.py            # Offline evaluation script
+│   ├── main.py 
 │   └── requirements.txt        # Dependencies
 │
 ├── data/
@@ -41,6 +40,7 @@ Project_Mallavolu_Goutham/
 │   └── metrics_summary.csv     # Evaluation results
 │
 └── README.md                   # Project documentation
+```
 
 # System Components
 
