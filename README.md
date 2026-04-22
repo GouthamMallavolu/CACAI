@@ -14,8 +14,6 @@ This project implements a **context-aware conversational Information Retrieval (
 
 The system is designed to support follow-up conversational queries and demonstrate both traditional and modern retrieval techniques.
 
----
-
 # Project Structure
 ```
 Project_Mallavolu_Goutham/
